@@ -1,18 +1,22 @@
 
-/*.home-container {
-  background-color: #3C4040;
-  display: flex;
-  justify-content: center;
-  height: 100vh;
-}*/
+.home-container {
+  background-color: #DFE1E0;
+}
 
 .insta-container {
-  border: 2px solid black;
   width: 60%;
 }
 
 .instafeed__item__background {
   width: 100%;
+  border-radius: 25px;
+}
+
+.instafeed__item__background:hover {
+  box-shadow: 1px 2px 2px 1px black;
+}
+
+.instafeed__item__overlay--inner {
 }
 
 .link-container {

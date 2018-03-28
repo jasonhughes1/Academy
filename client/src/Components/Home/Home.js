@@ -12,7 +12,7 @@ class Home extends Component {
         <div className='link-container'>
           <span className="description">
             Welcome to Turing Salaries where you
-            can view data from past Turing graduates.
+  
           </span>
           <div className="button-area">
             <NavLink className='home-nav'
