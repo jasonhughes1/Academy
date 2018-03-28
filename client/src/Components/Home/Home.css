@@ -1,9 +1,18 @@
 
-.home-container {
+/*.home-container {
   background-color: #3C4040;
   display: flex;
   justify-content: center;
   height: 100vh;
+}*/
+
+.insta-container {
+  border: 2px solid black;
+  width: 60%;
+}
+
+.instafeed__item__background {
+  width: 100%;
 }
 
 .link-container {
