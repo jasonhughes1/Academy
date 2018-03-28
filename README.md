@@ -6,3 +6,4 @@
 
 * Tech Stack: React, Redux, Node.js, Express, HighCharts 
 # Academy
+# Academy
